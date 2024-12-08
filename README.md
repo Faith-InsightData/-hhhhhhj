@@ -61,7 +61,9 @@ The dataset consists of 7 columns:
 - Generated line plots to visualize trends in the closing price over different time intervals:  
   - **Yearly Closing Price**  
   - **Quarterly Closing Price**  
-  - **Monthly Closing Price**  
+  - **Monthly Closing Price**
+  -   
+#![image](https://github.com/user-attachments/assets/af3620be-3ed0-47af-a704-f105ad244735)
 
 ---
 
